@@ -9,7 +9,7 @@ int main()
     printf("welcome to mobile legends");
 
     int a = 17;
-    //int = innterger
+    //int = integer
 
     float h = 175.2;
     //float = khusus desimal
