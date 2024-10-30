@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1730262247 source:d:\trial\preuts\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+
